@@ -1,4 +1,4 @@
-[![MasterHead](https://yazilimmuhendisligi-en.samsun.edu.tr/wp-content/uploads/sites/163/2024/04/software-engineering.gif)]
+![MasterHead](https://yazilimmuhendisligi-en.samsun.edu.tr/wp-content/uploads/sites/163/2024/04/software-engineering.gif)
 <h1 align="center">Hi 👋, I'm Aditya Narayan Pandey</h1>
 <h3 align="center">A passionate Software Developer and frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQFAdOrAQe1HEA/article-cover_image-shrink_720_1280/0/1709674661110?e=1721260800&v=beta&t=l--wrNGXwWXnra0fBXrrdAle1oth6bG3ia6SfUMLScc">

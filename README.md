@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DSA& Low level Design**
 
-- 📫 How to reach me **pandeyaditya7800@gmail.com**
+- 📫 How to reach me **adityapandeyy2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
